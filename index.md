@@ -8,5 +8,8 @@
 3. 探索可变剪接在样本中的动态变化
 4. 利用RNAseq提升ATACseq数据质量(_项目进行中_)
 
-## MetaMed[预览]（http://metamed.rwebox.com/index)
+## MetaMed[预览](http://metamed.rwebox.com/index)
 通过对微生物组代谢物同药物间互作的计算，找到对特定疾病有效的微生物，以及对特定肠道微生物作用的小分子药物、中药等。（_项目进行中_）
+
+## 日志博客(/blogs)
+#### 十一月
