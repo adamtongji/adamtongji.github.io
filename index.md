@@ -15,4 +15,4 @@
 
 ## [日志博客](https://adamtongji.github.io/blogs)
 #### 十一月
-11.26 [暗时间：如何逃脱环境的枷锁？](https://adamtongji.github.io/blogs/2017_11_26.md)
+11.26 [暗时间：如何逃脱环境的枷锁？](https://adamtongji.github.io/blogs/2017_11_26)
