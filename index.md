@@ -1,14 +1,15 @@
 # Welcome to Shaliu's Blog
 
+[tongji](https://adamtongji.github.io/static/pic/tongji_logo.png)
+
 ## 主要研究/工作方向：
 1. 发育中增强子预测及调控网络构建（整合分析/模型构建）。
 2. 基于转录组学的临床数据整合分析和表观预测。
 3. 数据库/网站/软件/算法的合作开发。
 
-## 正在进行项目（2017/12/1-2018/1/1)：
+## 正在进行合作项目（2017/12/1-2018/1/1)：
 - Z老师：RNAseq和ChIP-seq联合分析  
 - M老师：癌症增强子分析  
-
 
 ## 在线项目展示
 ###  RNAseq分析全览 [软件结果预览](https://adamtongji.github.io/RNApipe)
