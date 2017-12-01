@@ -1,6 +1,6 @@
 # Welcome to Shaliu's Blog
 
-[tongji](https://adamtongji.github.io/static/pic/tongji_logo.png)
+![网络错误！](https://adamtongji.github.io/static/pic/tongji_logo.png "同济大学")
 
 ## 主要研究/工作方向：
 1. 发育中增强子预测及调控网络构建（整合分析/模型构建）。
