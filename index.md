@@ -28,3 +28,6 @@
 11.26 [暗时间：如何逃脱环境的枷锁？](https://adamtongji.github.io/blogs/2017_11_26)  
 #### 十二月
 12.1 [暗时间：逃出天性](https://adamtongji.github.io/blogs/2017_12_1)  
+
+
+{% include _includes/comments.html %}
