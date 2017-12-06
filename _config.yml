@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Shaliu Fu
 organization: tongji univ.
-organization_url: http://www.tongji.edu.cn
+organization_url: https://www.tongji.edu.cn
 github_username: adamtongji
 location: Shanghai, China
 email: adam.tongji@gmail.com
@@ -92,7 +92,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner:  
-    repo: blog-comments
+    repo: 
     oauth:
         client_id:  
         client_secret:  
