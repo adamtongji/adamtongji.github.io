@@ -1,0 +1,13 @@
+- name: Software Engineer Keywords
+  keywords:
+      - R
+      - Shell
+      - Python
+      - Design Patterns
+
+- name: Bioinformatics Keywords
+  keywords:
+      - ChIP-seq
+      - RNA-seq
+      - ATAC-seq
+      - Singe cell
