@@ -1,4 +1,3 @@
-## 2017/12/4  文献阅读摘要
 ---
 layout: post
 title: 文献阅读摘要: EnhancerFinder
