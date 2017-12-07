@@ -1,4 +1,11 @@
-## 2017/11/28 Scikit-learin学习
+## 2017/11/28 
+---
+layout: post
+title: Scikit-learin学习
+categories: [python, 机器学习]
+description: 万门sklearn笔记
+keywords: sklearn, python
+---
 
 **主要分类**
 1. clustering
