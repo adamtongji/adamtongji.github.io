@@ -1,4 +1,3 @@
-## 2017/11/28 
 ---
 layout: post
 title: Scikit-learin学习

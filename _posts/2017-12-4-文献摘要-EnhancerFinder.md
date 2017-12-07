@@ -1,4 +1,11 @@
 ## 2017/12/4  文献阅读摘要
+---
+layout: post
+title: 文献阅读摘要: EnhancerFinder
+categories: [文献阅读, 机器学习]
+description: 
+keywords: 文献阅读，Enhancer tagert
+---
 
 #### Paper: 2016 NG, Enhancer–promoter interactions are encoded by complex genomic signatures on looping chromatin
 1. 通过HiC找到所有Interaction pairs, 作为positive。用类似距离的random regions作为negative。  
