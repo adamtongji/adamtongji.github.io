@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://adamtongji.github.io
+url: https://adamtongji.github.io
 date_format: "ordinal"
 title: Shaliu's Blog
 subtitle: "用心感受数据，用生信治病救人"
