@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Shaliu Fu
 organization: tongji univ.
-organization_url: https://www.tongji.edu.cn
+organization_url: http://www.tongji.edu.cn
 github_username: adamtongji
 location: Shanghai, China
 email: adam.tongji@gmail.com
@@ -99,7 +99,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: adamtongji
-    repo: blog-comments
+    repo: adamtongji
     clientID: 6f852fdd39e4208dc7c9
     clientSecret: 58383335a24dc750975505c224163751061344e3
 # 在使用其它评论组件时可点击显示 Disqus
