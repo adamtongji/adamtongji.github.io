@@ -99,11 +99,11 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: adamtongji
-    repo: adamtongji
+    repo: blog-comment
     clientID: 6f852fdd39e4208dc7c9
     clientSecret: 58383335a24dc750975505c224163751061344e3
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+lazy_load_disqus : true
 
 # ---------------- #
 #    Analytics     #
