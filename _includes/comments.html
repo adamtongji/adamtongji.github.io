@@ -1,3 +1,4 @@
+
 {% if page.comments != false %}
 
   {% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
@@ -90,9 +91,9 @@
         <div id="gitalk-container"></div>
         <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
         <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+        <script src="{{ site.url }}/assets/js/md5.min.js"></script>
         <script>
         var gitalk = new Gitalk({
-            id: '{{ page.url }}',
             clientID: '{{ site.gitalk.clientID }}',
             clientSecret: '{{ site.gitalk.clientSecret }}',
             repo: '{{ site.gitalk.repo }}',
@@ -100,6 +101,7 @@
             admin: ['{{ site.gitalk.owner }}'],
             labels: ['gitment'],
             perPage: 50,
+            id: md5(location.href),
         })
         gitalk.render('gitalk-container')
         </script>
