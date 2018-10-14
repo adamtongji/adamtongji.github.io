@@ -6,7 +6,7 @@ description: docker学习和使用案例
 keywords: docker, wordpress
 ---
 
-## 零代码基础——Docker应用之一键化安装Wordpress
+## Docker应用之一键化安装Wordpress(无需代码基础)
 
 WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。Wordpress的搭建和维护基本只需鼠标操作、无需代码和网页开发的基础，很多博客爱好者使用wordpress作为自己快速搭建个人博客的平台，一些公司也使用wordpress来搭建公司的官方网站(如下图示例)。  
 ![wordpress示例](ex1.png)  
