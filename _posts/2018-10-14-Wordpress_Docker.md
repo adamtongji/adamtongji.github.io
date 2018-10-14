@@ -27,7 +27,10 @@ sudo yum install docker-ce
 ```
 
 ### 用Docker搭建Wordpress
-有了Docker，我们便可以快速安装Wordpress。首先，Win用户和Mac用户打开Docker软件，Linux用户启用Docker服务。其次，创建一个文件夹，并新建一个文档，命名为“docker-compose.yml”。第三步，将以下配置复制入刚创建的yml文件。
+有了Docker，我们便可以快速安装Wordpress。  
+**第一步**，Win用户和Mac用户打开Docker软件，Linux用户启用Docker服务。  
+**第二步**，创建一个文件夹，并新建一个文档，命名为“docker-compose.yml”。  
+**第三步**，将以下配置复制入刚创建的yml文件。
 ```YAML
 version: "3"
 services:
@@ -58,9 +61,11 @@ networks:
   my-bridge:
     driver: bridge
 ```
-第四步，在该文件夹下打开命令行，输入`docker-compose up`，此时Wordpress和Mysql便自动下载并安装入Docker容器，根据网速不同等待一些时间便安装完成。最后，打开你的浏览器，输入"localhost:8080"或者"localhost"或者"127.0.0.1"，远程服务器的直接输入服务器IP地址，即可进入Wordpress安装界面，开始你的Wordpress之旅。  
+**第四步**，在该文件夹下打开命令行，输入`docker-compose up`，此时Wordpress和Mysql便自动下载并安装入Docker容器，根据网速不同等待一些时间便安装完成。  
+最后，打开你的浏览器，输入"localhost:8080"或者"localhost"或者"127.0.0.1"，远程服务器的直接输入服务器IP地址，即可进入Wordpress安装界面，开始你的Wordpress之旅。  
 
-好了，或许你已经安装好了，那么如何卸载/中止Wordpress服务呢？也很简单，首先进入你的文件夹，输入：
+好了，或许你已经安装好了，那么如何**卸载/中止**Wordpress服务呢？  
+其实也很简单，首先进入你的文件夹，输入：
 ```Bash
 docker-compose down
 ```
