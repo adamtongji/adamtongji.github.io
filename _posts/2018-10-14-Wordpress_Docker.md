@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Docker一键安装wordpress
-categories: [Docker, network]
-description: docker学习和使用案例
-keywords: docker, wordpress
+layout: post  
+title: Docker一键安装wordpress  
+categories: [Docker, network]  
+description: docker学习和使用案例  
+keywords: docker, wordpress  
 ---
 
 ## Docker应用之一键化安装Wordpress(无需代码基础)
 
 WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。Wordpress的搭建和维护基本只需鼠标操作、无需代码和网页开发的基础，很多博客爱好者使用wordpress作为自己快速搭建个人博客的平台，一些公司也使用wordpress来搭建公司的官方网站(如下图示例)。  
-![wordpress示例](ex1.png)  
+![wordpress示例](../images/2018-10-14/ex1.png)  
 
 尽管wordpress功能强大且操作方便，安装Wordpress软件仍需对系统、网络以及数据库有一定的了解，并且安装过程可能会对一些系统原本配置(比如Mysql)产生一定影响，不同的系统安装方法也有一定差别。安装Worpress成为使用Wordpress平台主要的门槛。  
 
