@@ -60,10 +60,10 @@ networks:
 ```
 第四步，在该文件夹下打开命令行，输入`docker-compose up`，此时Wordpress和Mysql便自动下载并安装入Docker容器，根据网速不同等待一些时间便安装完成。最后，打开你的浏览器，输入"localhost:8080"或者"localhost"或者"127.0.0.1"，远程服务器的直接输入服务器IP地址，即可进入Wordpress安装界面，开始你的Wordpress之旅。  
 
-好了，或许你已经安装好了，那么如何停止Wordpress服务呢？也很简单，首先进入你的文件夹，输入：
+好了，或许你已经安装好了，那么如何卸载/中止Wordpress服务呢？也很简单，首先进入你的文件夹，输入：
 ```Bash
 docker-compose down
 ```
-然后，docker便会逐步停止所有相关服务，同卸载有相同效果。如需再度启用，则在相同文件夹再输入`docker-compose up`或者`docker-compose up -d`运行于后台。
+然后，docker便会逐步停止所有相关服务，同卸载有相同效果。如需再度安装使用Wordpress，则在相同文件夹再输入`docker-compose up`或者`docker-compose up -d`运行于后台。
 
 综上，无论是Windows,Mac还是Linux，只要有docker便可以实现很多原本很困难的功能，比如`docker-compose up`命令便可以一键安装多个功能和组件的Wordpress平台。欢迎留言讨论Docker相关的问题~
