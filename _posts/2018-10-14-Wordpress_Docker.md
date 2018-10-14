@@ -29,7 +29,7 @@ sudo yum install docker-ce
 ### 用Docker搭建Wordpress
 有了Docker，我们便可以快速安装Wordpress。  
 **第一步**，Win用户和Mac用户打开Docker软件，Linux用户启用Docker服务。  
-**第二步**，创建一个文件夹，并新建一个文档，命名为“docker-compose.yml”。  
+**第二步**，创建一个文件夹，并在文件夹中新建一个文档，命名为“docker-compose.yml”。  
 **第三步**，将以下配置复制入刚创建的yml文件。
 ```YAML
 version: "3"
